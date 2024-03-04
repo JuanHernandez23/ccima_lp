@@ -217,3 +217,14 @@ h3{
 .p-2:last-child{
    
 } */
+
+.charts{
+    width: 100%;
+    min-height: 546px;
+}
+.log{
+    width: 64px;
+}
+p{
+    color: #021D49;
+}
